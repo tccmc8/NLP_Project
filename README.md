@@ -131,7 +131,7 @@ Each notebook mounts Google Drive on first run and saves all outputs to `MyDrive
 
 ---
 
-## 📚 Key References
+## Key References
 
 - Vaswani et al. (2017) — *Attention Is All You Need*
 - Devlin et al. (2019) — *BERT: Pre-training of Deep Bidirectional Transformers*
